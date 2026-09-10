@@ -38,7 +38,7 @@
       "tab": "Персонал Сервера",
       "icon": "user-shield",
       "pages": [
-        "ru/staff/general/staff-rights",
+        "untitled-page",
         {
           "group": "Правила Персонала",
           "icon": "scale-balanced",
@@ -56,7 +56,7 @@
           ],
           "icon": "compass"
         },
-        "untitled-page"
+        "ru/staff/general/staff-rights"
       ]
     },
     {
