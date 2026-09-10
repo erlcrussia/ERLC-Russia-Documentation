@@ -38,6 +38,7 @@
       "tab": "Персонал Сервера",
       "icon": "user-shield",
       "pages": [
+        "ru/staff/general/staff-rights",
         {
           "group": "Правила Персонала",
           "icon": "scale-balanced",
