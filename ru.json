@@ -35,17 +35,10 @@
       ]
     },
     {
-      "tab": "Правила Персонала",
+      "tab": "Персонал Сервера",
       "icon": "user-shield",
       "pages": [
-        {
-          "group": "Основные Положения",
-          "icon": "scroll",
-          "pages": [
-            "ru/staff/general/staff-rights",
-            "ru/staff/general/ethical-norms"
-          ]
-        },
+        "untitled-page",
         {
           "group": "Правила Персонала",
           "icon": "scale-balanced",
@@ -62,7 +55,8 @@
             "ru/staff/guides/erlc-staff-handbook"
           ],
           "icon": "compass"
-        }
+        },
+        "ru/staff/general/staff-rights"
       ]
     },
     {
