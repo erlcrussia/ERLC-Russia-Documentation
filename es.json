@@ -11,7 +11,6 @@
           "icon": "book",
           "pages": [
             "es/server-rules/general-rules/server-rules",
-            "es/server-rules/general-rules/rp-terms",
             "es/server-rules/general-rules/discord-rules",
             "es/server-rules/general-rules/event-rules"
           ]
