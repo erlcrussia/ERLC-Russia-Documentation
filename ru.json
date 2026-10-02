@@ -37,14 +37,20 @@
       "tab": "Персонал Сервера",
       "icon": "user-shield",
       "pages": [
-        "untitled-page",
+        {
+          "group": "Основные Положения",
+          "icon": "scroll",
+          "pages": [
+            "ru/staff/general/staff-rights"
+          ]
+        },
         {
           "group": "Правила Персонала",
           "icon": "scale-balanced",
           "pages": [
             "ru/staff/staff-rules/erlc-staff-rules",
             "ru/staff/staff-rules/reglament-personala-discord",
-            "ru/staff/general/ethical-norms",
+            "ru/staff/staff-rules/ethical-norms",
             "ru/staff/staff-rules/curator-rules",
             "ru/staff/staff-rules/pr-rules"
           ]
@@ -53,9 +59,9 @@
           "group": "Гайды Для Персонала",
           "pages": [
             "ru/staff/guides/erlc-staff-commands",
-            "ru/staff/guides/igrovye-komandy-personala-discord",
+            "ru/staff/guides/discord-staff-commands",
             "ru/staff/guides/erlc-staff-handbook",
-            "ru/staff/guides/spravochnik-personala-discord"
+            "ru/staff/guides/discord-staff-handbook"
           ],
           "icon": "compass"
         }
