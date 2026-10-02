@@ -11,7 +11,6 @@
           "icon": "book",
           "pages": [
             "en/server-rules/general-rules/server-rules",
-            "en/server-rules/general-rules/rp-terms",
             "en/server-rules/general-rules/discord-rules",
             "en/server-rules/general-rules/event-rules"
           ]
@@ -62,69 +61,6 @@
             "en/staff/guides/erlc-staff-handbook"
           ],
           "icon": "compass"
-        }
-      ]
-    },
-    {
-      "tab": "Changelogs",
-      "icon": "clock-rotate-left",
-      "pages": [
-        "en/changelogs/index",
-        {
-          "group": "MRP Changelogs",
-          "icon": "list",
-          "pages": [
-            {
-              "group": "Update V1.0",
-              "icon": "folder",
-              "pages": [
-                "en/changelogs/changelog-v1.0/changelog-v1.0.2",
-                "en/changelogs/changelog-v1.0/changelog-v1.0.1"
-              ]
-            },
-            {
-              "group": "Update V0.5",
-              "icon": "folder",
-              "pages": [
-                "en/changelogs/changelog-v0.5/changelog-v0.5.2",
-                "en/changelogs/changelog-v0.5/changelog-v0.5.1"
-              ]
-            },
-            {
-              "group": "Update V0.4",
-              "icon": "folder",
-              "pages": [
-                "en/changelogs/changelog-v0.4/changelog-v0.4.1"
-              ]
-            },
-            {
-              "group": "Update V0.3",
-              "icon": "folder",
-              "pages": [
-                "en/changelogs/changelog-v0.3/changelog-v0.3.3",
-                "en/changelogs/changelog-v0.3/changelog-v0.3.2",
-                "en/changelogs/changelog-v0.3/changelog-v0.3.1"
-              ]
-            },
-            {
-              "group": "Update V0.2",
-              "icon": "folder",
-              "pages": [
-                "en/changelogs/changelog-v0.2/changelog-v0.2.3",
-                "en/changelogs/changelog-v0.2/changelog-v0.2.2",
-                "en/changelogs/changelog-v0.2/changelog-v0.2.1"
-              ]
-            },
-            {
-              "group": "Update V0.1",
-              "icon": "folder",
-              "pages": [
-                "en/changelogs/changelog-v0.1/changelog-v0.1.3",
-                "en/changelogs/changelog-v0.1/changelog-v0.1.2",
-                "en/changelogs/changelog-v0.1/changelog-v0.1.1"
-              ]
-            }
-          ]
         }
       ]
     },
@@ -219,10 +155,6 @@
           {
             "label": "Wiki",
             "href": "/en"
-          },
-          {
-            "label": "Changelogs",
-            "href": "/en/changelogs"
           },
           {
             "label": "Staff Rules",
