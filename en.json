@@ -58,7 +58,8 @@
           "group": "Staff Guides",
           "pages": [
             "en/staff/guides/erlc-staff-commands",
-            "en/staff/guides/erlc-staff-handbook"
+            "en/staff/guides/erlc-staff-handbook",
+            "en/staff/guides/discord-staff-handbook"
           ],
           "icon": "compass"
         }

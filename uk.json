@@ -58,7 +58,8 @@
           "group": "Гайди Для Персоналу",
           "pages": [
             "uk/staff/guides/erlc-staff-commands",
-            "uk/staff/guides/erlc-staff-handbook"
+            "uk/staff/guides/erlc-staff-handbook",
+            "uk/staff/guides/discord-staff-handbook"
           ],
           "icon": "compass"
         }
